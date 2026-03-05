@@ -77,8 +77,8 @@ PHP MVC system with dynamic seat selection.
 🔹 **Laravel Portfolio Website**
 Admin dashboard + contact form + project management.
 
-🔹 **Booking Management System**
-Complete CRUD with authentication.
+🔹 **Training Management System**
+Completed application.
 
 ---
 
