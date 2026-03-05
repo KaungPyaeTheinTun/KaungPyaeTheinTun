@@ -55,14 +55,6 @@ Building Scalable & Beautiful Solutions
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME)
-
----
-
 ## 🚀 Featured Projects
 
 🔹 Online Bus Ticket Booking System  
