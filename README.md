@@ -1,66 +1,93 @@
-<h1 align="center">👋 Hi There! I'm Kaung Pyae</h1>
-
-<h3 align="center">
-Full-Stack Web Developer <br>
-Building Scalable & Beautiful Solutions
-</h3>
+<h1 align="center">Hi 👋, I'm Kaung Pyae</h1>
+<h3 align="center">Full Stack Developer | Laravel | PHP | JavaScript</h3>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Location-Yangon,_Myanmar-purple"/>
-<img src="https://img.shields.io/badge/Experience-2+_Years-blue"/>
-<img src="https://img.shields.io/badge/Education-B.C.Sc-green"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+Specialist;Backend+Engineer;Always+learning+new+things" />
 </p>
 
-<p align="center">
-✨ "Code with clarity, Deliver with speed, Aim for excellence" ✨
-</p>
+---
 
-<p align="center">
+### 👨‍💻 About Me
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-purple?style=for-the-badge"/>
-</a>
+* 💻 Full Stack Developer based in **Yangon, Myanmar**
+* 🚀 Passionate about building scalable web applications
+* 🧠 Currently learning **Microservices & System Design**
+* 🛠 Experienced with **Laravel, PHP, JavaScript, MySQL**
+* 🎯 Goal: Become a **Senior Backend Engineer**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-Let's_Talk-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome">
 </a>
 
 </p>
 
 ---
 
-## 🌸 About Me
+### ⚙️ Tech Stack
 
-💜 Passionate about creating elegant solutions for complex problems  
-🚀 Specialized in web development and scalable systems  
-🎯 Focused on clean architecture and performance  
-🌱 Always learning new technologies  
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,bootstrap,tailwind,git,github,vscode"/>
 
-## ⚙️ Tech Stack
-
-![PHP](https://img.shields.io/badge/PHP-blue)
-![Laravel](https://img.shields.io/badge/Laravel-red)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-skyblue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 📊 GitHub Stats
 
-🔹 Online Bus Ticket Booking System  
-🔹 Laravel Portfolio Website  
-🔹 Booking Management System  
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 🧠 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+🔹 **Online Bus Ticket Booking System**
+PHP MVC system with dynamic seat selection.
+
+🔹 **Laravel Portfolio Website**
+Admin dashboard + contact form + project management.
+
+🔹 **Booking Management System**
+Complete CRUD with authentication.
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+⭐ From [KaungPyae](https://github.com/YOURUSERNAME)
