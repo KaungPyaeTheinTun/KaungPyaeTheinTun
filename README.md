@@ -41,7 +41,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,bootstrap,tailwind,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,bootstrap,tailwind,git,github,vscode,docker,vue.js"/>
 
 </p>
 
