@@ -7,17 +7,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-* 💻 Full Stack Developer based in **Yangon, Myanmar**
-* 🚀 Passionate about building scalable web applications
-* 🧠 Currently learning **Microservices**
-* 🛠 Experienced with **Laravel, PHP, dotnet, JavaScript, MySQL**
-* 🎯 Goal: Become a **Senior Backend Engineer**
+* Full Stack Developer based in **Yangon, Myanmar**
+* Passionate about building scalable web applications
+* Currently learning **Microservices**
+* Experienced with **Laravel, PHP, dotnet, JavaScript, MySQL**
+* Goal: Become a **Senior Backend Engineer**
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="left">
 
@@ -37,7 +37,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 <p>
 
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
 
@@ -59,7 +59,7 @@
 
 ---
 
-### 🧠 Most Used Languages
+### Most Used Languages
 
 <p align="center">
 
