@@ -21,11 +21,11 @@
 
 <p align="left">
 
-<a href="https://linkedin.com">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/kaung-pyae-thein-tun-4aab183b4/)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:kaungpyaethaintun@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
