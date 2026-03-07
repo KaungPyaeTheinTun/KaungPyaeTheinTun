@@ -63,7 +63,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwind,git,github,vscode,docker,dotnet"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,dotnet"/>
 
 </p>
 
