@@ -11,8 +11,8 @@
 
 * 💻 Full Stack Developer based in **Yangon, Myanmar**
 * 🚀 Passionate about building scalable web applications
-* 🧠 Currently learning **Microservices & System Design**
-* 🛠 Experienced with **Laravel, PHP, JavaScript, MySQL**
+* 🧠 Currently learning **Microservices**
+* 🛠 Experienced with **Laravel, PHP, dotnet, JavaScript, MySQL**
 * 🎯 Goal: Become a **Senior Backend Engineer**
 
 ---
