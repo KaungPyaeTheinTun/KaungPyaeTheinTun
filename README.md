@@ -21,7 +21,7 @@
 
 <p align="left">
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/kaung-pyae-thein-tun-4aab183b4/)">
+<a href="https://www.linkedin.com/in/kaung-pyae-thein-tun-4aab183b4/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
