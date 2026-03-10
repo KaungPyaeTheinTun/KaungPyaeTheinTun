@@ -82,12 +82,4 @@ Completed application.
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ⭐ From [KaungPyae](https://github.com/YOURUSERNAME)
