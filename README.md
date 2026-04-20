@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaung Pyae Thein Tun</h1>
-<h3 align="center">Full Stack Developer | Laravel | PHP | ASP.NET</h3>
+<h3 align="center">Full Stack Developer | Laravel | PHP | ASP.NET | React.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+Specialist;Backend+Engineer;Always+learning+new+things" />
