@@ -49,7 +49,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,dotnet"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,dotnet,react"/>
 
 </p>
 
