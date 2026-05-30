@@ -40,9 +40,7 @@
 ### Tech Stack
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,bootstrap,tailwind,git,github,vscode,docker,vue.js,react.js,dotnet"/>
-
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,bootstrap,tailwind,git,github,vscode,docker,vue,react,dotnet" />
 </p>
 
 ---
