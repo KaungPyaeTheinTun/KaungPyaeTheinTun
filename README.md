@@ -1,9 +1,9 @@
 # Hi 👋, I'm Kaung Pyae Thein Tun
 
-### Full Stack Developer | Laravel | PHP | ASP.NET | React
+### Full Stack Web Developer | Laravel | PHP | ASP.NET | React
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Focused+Engineer;Laravel+%26+PHP+Specialist;Building+Scalable+Web+Applications;Clean+Architecture+%7C+SOLID+%7C+DDD" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Backend+Focused+Engineer;Laravel+%26+PHP+Specialist;Building+Scalable+Web+Applications;Clean+Architecture+%7C+SOLID+%7C+DDD" />
 </p>
 
 ---
