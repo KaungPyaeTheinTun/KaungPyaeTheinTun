@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 * Full Stack Developer with 2+ years of professional experience building business applications.
-* Strong backend development experience using PHP, Laravel, ASP.NET, and MySQL.
+* Strong backend development experience using PHP, Laravel, ASP.NET, MySQL and MSSQL.
 * Passionate about Clean Architecture, SOLID Principles, Domain-Driven Design (DDD), and scalable software design.
 * Experienced in developing booking systems, training management systems, admin portals, and business automation platforms.
 * Comfortable working across the full software development lifecycle from requirements gathering to deployment.
@@ -37,7 +37,6 @@
 ### Frontend Development
 
 * React
-* Vue
 * JavaScript (ES6+)
 * HTML5
 * CSS3
@@ -47,6 +46,7 @@
 ### Database
 
 * MySQL
+* MSSQL
 * Database Design
 * Query Optimization
 * Stored Procedures
@@ -58,7 +58,6 @@
 * Docker
 * VS Code
 * Postman
-* Linux
 
 ---
 
