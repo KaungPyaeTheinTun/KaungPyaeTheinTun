@@ -3,7 +3,7 @@
 ### Full Stack Web Developer | Laravel | PHP | ASP.NET | React
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Backend+Focused+Engineer;Laravel+%26+PHP+Specialist;Building+Scalable+Web+Applications;Clean+Architecture+%7C+SOLID+%7C+DDD" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Frontend+Focused+Engineer;Laravel+%26+ASP.NET++%26+React.js+Specialist;Building+Scalable+Web+Applications;Clean+Architecture+%7C+SOLID+%7C+DDD" />
 </p>
 
 ---
